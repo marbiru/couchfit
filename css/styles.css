@@ -1,0 +1,25 @@
+/* whole app */
+
+h2 {
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: "Gotham", sans-serif;
+}
+
+p {
+  color: black;
+  font-family: "Gotham", sans-serif;
+}
+
+a {
+  color: black;
+}
+.statusbar-overlay {
+  background: white;
+}
+
+.page-content {
+  text-align: center;
+  background: white;
+}
